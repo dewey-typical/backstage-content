@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Test-repo
+  description: An example of a Backstage components located in github.
+  # Example for optional annotations
+  # annotations:
+  #   github.com/project-slug: backstage/backstage
+  #   backstage.io/techdocs-ref: dir:.
+spec:
+  type: website
+  owner: dewey-typical@github.com
+  lifecycle: experimental
