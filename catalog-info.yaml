@@ -9,5 +9,5 @@ metadata:
   #   backstage.io/techdocs-ref: dir:.
 spec:
   type: website
-  owner: dewey-typical@github.com
+  owner: dewey-typical
   lifecycle: experimental
